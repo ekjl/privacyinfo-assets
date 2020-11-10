@@ -1,0 +1,35 @@
+.infocard {
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+	display: flex;
+	max-width: 100%;
+	margin: 20px;
+	overflow: hidden;
+	width: 700px;
+}
+
+.infocard h1 {
+	opacity: 0.6;
+	margin: 0;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.infocard h5 {
+	letter-spacing: 1px;
+	margin: 10px 0;
+}
+
+.infocard-image {
+	background-color: #2A265F;
+	color: #fff;
+	padding: 30px;
+	max-width: 250px;
+}
+
+.infocard-info {
+	padding: 30px;
+	position: relative;
+	width: 100%;
+}
